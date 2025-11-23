@@ -1,0 +1,12 @@
+{
+	"name": "AzureSQLds",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "vijay501042source1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}
